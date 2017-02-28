@@ -1,0 +1,6 @@
+C:\Users\nchabukswar\Desktop\My AllAssignment\TriFibonacci_Series\TriFibonacci_Series\bin\Debug\TriFibonacci_Series.exe.config
+C:\Users\nchabukswar\Desktop\My AllAssignment\TriFibonacci_Series\TriFibonacci_Series\bin\Debug\TriFibonacci_Series.exe
+C:\Users\nchabukswar\Desktop\My AllAssignment\TriFibonacci_Series\TriFibonacci_Series\bin\Debug\TriFibonacci_Series.pdb
+C:\Users\nchabukswar\Desktop\My AllAssignment\TriFibonacci_Series\TriFibonacci_Series\obj\Debug\TriFibonacci_Series.csprojResolveAssemblyReference.cache
+C:\Users\nchabukswar\Desktop\My AllAssignment\TriFibonacci_Series\TriFibonacci_Series\obj\Debug\TriFibonacci_Series.exe
+C:\Users\nchabukswar\Desktop\My AllAssignment\TriFibonacci_Series\TriFibonacci_Series\obj\Debug\TriFibonacci_Series.pdb
