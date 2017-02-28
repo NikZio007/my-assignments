@@ -1,6 +1,0 @@
-C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\bin\Debug\AnaGram_Problem.exe.config
-C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\bin\Debug\AnaGram_Problem.exe
-C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\bin\Debug\AnaGram_Problem.pdb
-C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.csprojResolveAssemblyReference.cache
-C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.exe
-C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.pdb
