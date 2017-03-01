@@ -52,13 +52,13 @@ namespace AnaGram_Problem
             return true;
         }
 
-        private string CharArrayToStringConvertor(char[] tempCharArray)
+        private string CharArrayToStringConvertor(char[] TempCharArray)
         {
             StringBuilder sb = new StringBuilder();
             sb.Clear();
-            foreach (char c in tempCharArray)
+            foreach (char Character in TempCharArray)
             {
-                sb.Append(c);
+                sb.Append(Character);
             }
             return sb.ToString();
         }

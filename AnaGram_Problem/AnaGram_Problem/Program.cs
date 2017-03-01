@@ -10,23 +10,24 @@ namespace AnaGram_Problem
     {
         static void Main(string[] args)
         {
-        Start:
-            string[] inputStringArray = Input.GetInput();
-            Validation check = new Validation();
-            bool chk = check.ValidateTheInpt(inputStringArray);
-            if (chk)
+            string[] InputStringArray;
+            bool ResultCheck=true;
+            do
             {
-                Console.WriteLine("All Good To Go");
-                CalculationsForAnagram cal = new CalculationsForAnagram();
-                int answer = cal.GetMaximumSubset(inputStringArray);
-                Console.WriteLine("Answer iS:- " + answer);
-            }
-            else
-            {
-                Console.WriteLine("Nothing is Good right now");
-                goto Start;
-            }
-            Console.ReadKey();
+                if (ResultCheck == false)
+                {
+                    Console.WriteLine("Invalid input please enter again");
+                }
+                InputStringArray = Input.GetInput();
+                Validation check = new Validation();
+                ResultCheck = check.ValidateTheInpt(InputStringArray);
+            } while (ResultCheck == false);
+            
+
+            CalculationsForAnagram cal = new CalculationsForAnagram();
+            int answer = cal.GetMaximumSubset(InputStringArray);
+            Console.WriteLine("Answer iS:- " + answer);
+          
         }
     }
 }

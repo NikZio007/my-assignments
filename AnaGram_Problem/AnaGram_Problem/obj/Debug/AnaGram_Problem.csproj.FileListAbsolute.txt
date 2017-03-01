@@ -4,3 +4,9 @@ C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\bi
 C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.csprojResolveAssemblyReference.cache
 C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.exe
 C:\Users\nchabukswar\Desktop\My AllAssignment\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.pdb
+D:\MyData\AnaGram_Problem\AnaGram_Problem\bin\Debug\AnaGram_Problem.exe.config
+D:\MyData\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.exe
+D:\MyData\AnaGram_Problem\AnaGram_Problem\obj\Debug\AnaGram_Problem.pdb
+D:\MyData\AnaGram_Problem\AnaGram_Problem\bin\Debug\AnaGram_Problem.exe
+D:\MyData\AnaGram_Problem\AnaGram_Problem\bin\Debug\AnaGram_Problem.pdb
+D:\MyData\AnaGram_Problem\AnaGram_Problem\obj\Debug\Anagram_Problem.csprojResolveAssemblyReference.cache

@@ -10,10 +10,10 @@ namespace AnaGram_Problem
     {
         internal static string[] GetInput()
         {
-            String inputstr;
-            Console.WriteLine("-:Enter The Anagram Series:-");
-            inputstr = Console.ReadLine();
-            String[] InputStringArray = inputstr.Split(',');
+            String InputString;
+            Console.WriteLine("Enter The Anagram Series:");
+            InputString = Console.ReadLine();
+            String[] InputStringArray = InputString.Split(',');
             return InputStringArray;
 
         }
