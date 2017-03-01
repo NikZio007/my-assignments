@@ -18,3 +18,6 @@ F:\StudentRegistration\StudentRegistration\bin\Debug\normnfd.nlp
 F:\StudentRegistration\StudentRegistration\bin\Debug\normnfkc.nlp
 F:\StudentRegistration\StudentRegistration\bin\Debug\normnfkd.nlp
 F:\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
+D:\MyData\StudentRegistration\StudentRegistration\bin\Debug\StudentRegistration.exe.config
+D:\MyData\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.exe
+D:\MyData\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb

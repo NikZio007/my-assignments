@@ -38,11 +38,11 @@ namespace StudentRegistration
                 _SubjectsInList = value;
             }
         }
-        public Student(string name ,List<Subject> NewSubject)
+        public Student(string name ,List<Subject> Subjects)
         {
             _StudentID = ++id;
             StudentName = name;
-            SubjectsInList = NewSubject;
+            SubjectsInList = Subjects;
         }
         public override string ToString()
         {
