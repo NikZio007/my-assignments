@@ -4,3 +4,6 @@ C:\Users\nchabukswar\Desktop\My AllAssignment\ProblemNo1\ProblemNo1\bin\Debug\Pr
 C:\Users\nchabukswar\Desktop\My AllAssignment\ProblemNo1\ProblemNo1\obj\Debug\ProblemNo1.csprojResolveAssemblyReference.cache
 C:\Users\nchabukswar\Desktop\My AllAssignment\ProblemNo1\ProblemNo1\obj\Debug\ProblemNo1.exe
 C:\Users\nchabukswar\Desktop\My AllAssignment\ProblemNo1\ProblemNo1\obj\Debug\ProblemNo1.pdb
+D:\MyData\ProblemNo1\ProblemNo1\bin\Debug\ProblemNo1.exe.config
+D:\MyData\ProblemNo1\ProblemNo1\obj\Debug\ProblemNo1.exe
+D:\MyData\ProblemNo1\ProblemNo1\obj\Debug\ProblemNo1.pdb
