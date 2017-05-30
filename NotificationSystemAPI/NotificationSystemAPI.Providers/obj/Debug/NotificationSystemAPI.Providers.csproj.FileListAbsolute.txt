@@ -1,0 +1,5 @@
+C:\Users\nchabukswar\Desktop\Final Assignment\NotificationSystemAPI\NotificationSystemAPI.Providers\bin\Debug\NotificationSystemAPI.Providers.dll
+C:\Users\nchabukswar\Desktop\Final Assignment\NotificationSystemAPI\NotificationSystemAPI.Providers\bin\Debug\NotificationSystemAPI.Providers.pdb
+C:\Users\nchabukswar\Desktop\Final Assignment\NotificationSystemAPI\NotificationSystemAPI.Providers\obj\Debug\NotificationSystemAPI.Providers.csprojResolveAssemblyReference.cache
+C:\Users\nchabukswar\Desktop\Final Assignment\NotificationSystemAPI\NotificationSystemAPI.Providers\obj\Debug\NotificationSystemAPI.Providers.dll
+C:\Users\nchabukswar\Desktop\Final Assignment\NotificationSystemAPI\NotificationSystemAPI.Providers\obj\Debug\NotificationSystemAPI.Providers.pdb
